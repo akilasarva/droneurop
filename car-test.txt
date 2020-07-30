@@ -1,0 +1,3 @@
+/Users/karthikg/Desktop/MIT/PhD/DroneProject/Code/TrainYolo/darknet/YoloInput-car/gandalf0004.jpg
+/Users/karthikg/Desktop/MIT/PhD/DroneProject/Code/TrainYolo/darknet/YoloInput-car/bilbo0010.jpg
+/Users/karthikg/Desktop/MIT/PhD/DroneProject/Code/TrainYolo/darknet/YoloInput-car/gandalf0019.jpg
